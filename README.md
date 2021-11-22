@@ -1,4 +1,4 @@
-# HoloStreamer 
+# HoloStreamer: Unity Plugin
 # For recording, saving and sending camera streamer from HoloLens in real-time
 
 # use different invalidation condition
