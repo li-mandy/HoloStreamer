@@ -1,5 +1,5 @@
 # HoloStreamer 
-# For recording camera streamer from HoloLens in real-time
+# For recording, saving and sending camera streamer from HoloLens in real-time
 
 # use different invalidation condition
     
